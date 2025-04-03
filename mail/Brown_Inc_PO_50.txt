@@ -1,0 +1,6 @@
+Dear Supplier,
+
+Order details:
+- 264 units of Motor Assembly (Item Code: CV-6677)
+
+Thanks.

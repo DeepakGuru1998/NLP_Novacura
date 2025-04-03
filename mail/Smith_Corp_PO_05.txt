@@ -1,0 +1,7 @@
+Urgent order request:
+- 135 93 units of Hydraulic Pump (Item Code: GR-4500)
+- 135 units of Heat Exchanger (Item Code: PC-1122)
+- 155 units of Conveyor Belt (Item Code: BS-7890)
+
+Best,
+Smith Corp

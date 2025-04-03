@@ -1,0 +1,6 @@
+Subject: PO-PO-94335
+
+- 127 49 units of Heat Exchanger (Item Code: HE-2345)
+- 14 units of Compressor Unit (Item Code: HE-2345)
+
+Ensure delivery by January 26, 2025.

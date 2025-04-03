@@ -1,0 +1,6 @@
+Dear Supplier,
+
+Order details:
+- 235 units of Compressor Unit (Item Code: PC-1122)
+
+Thanks.

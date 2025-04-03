@@ -1,0 +1,6 @@
+Dear Supplier,
+
+Order details:
+- 344 units of Conveyor Belt (Item Code: HE-2345)
+
+Thanks.

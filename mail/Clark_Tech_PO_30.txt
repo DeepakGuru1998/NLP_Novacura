@@ -1,0 +1,6 @@
+Please process the following order:
+
+- 368 units of Electrical Panel (Item Code: EP-9012)
+- 119 units of Heat Exchanger (Item Code: EP-9012)
+
+Expected delivery: February 09, 2025.

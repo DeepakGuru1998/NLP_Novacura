@@ -1,0 +1,8 @@
+Dear Supplier,
+
+Order details:
+- 198 units of Control Valve (Item Code: MA-2200)
+- 104 units of Bearing Set (Item Code: HE-2345)
+- 496 units of Gear Reducer (Item Code: HP-1001)
+
+Thanks.

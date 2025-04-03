@@ -1,0 +1,6 @@
+Urgent order request:
+- 174 units of Motor Assembly (Item Code: HE-2345)
+- 146 units of Heat Exchanger (Item Code: CV-6677)
+
+Best,
+Taylor Enterprises

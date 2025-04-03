@@ -1,0 +1,7 @@
+Dear Supplier,
+
+Order details:
+- 470 units of Conveyor Belt (Item Code: CU-5643)
+- 176 units of Motor Assembly (Item Code: CU-5643)
+
+Thanks.

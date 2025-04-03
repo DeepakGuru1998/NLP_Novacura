@@ -1,0 +1,7 @@
+Dear Supplier,
+
+Order details:
+- 298 units of Motor Assembly (Item Code: HE-2345)
+- 409 units of Electrical Panel (Item Code: CB-3300)
+
+Thanks.
